@@ -1,12 +1,12 @@
-<img align="right" alt="Coding" width="500" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQey4OY43dCpqgDxdW_Xab-qhxACQl32IJbA2O6O4H7Jt7KehUlHwi4E7012j4_dI5cy-4&usqp=CAU">
+<img align="center" alt="Coding" height="250" width="1100" src="https://www.hvl.no/contentassets/b38bced2a1c14b4eb9bf832026130da0/datavitskap_1280x400.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Jasmi Gunasekara.</h1>
 <h3 align="center">A highly energetic, ambitious person.</h3>
 
-<img align="right" alt="Coding" width="100" src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmigunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="jasmigunasekara" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmigunasekara&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="jasmigunasekara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmigunasekara" alt="jasmigunasekara" /></a> </p>
 

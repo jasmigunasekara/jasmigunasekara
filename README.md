@@ -1,5 +1,10 @@
+<img align="right" alt="Coding" width="500" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQey4OY43dCpqgDxdW_Xab-qhxACQl32IJbA2O6O4H7Jt7KehUlHwi4E7012j4_dI5cy-4&usqp=CAU">
+
+
 <h1 align="center">Hi 👋, I'm Jasmi Gunasekara.</h1>
 <h3 align="center">A highly energetic, ambitious person.</h3>
+
+<img align="right" alt="Coding" width="100" src="https://www.livewireindia.com/blog/wp-content/uploads/2019/06/1_37ABKi4XeHkEWHxlF3LIog.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmigunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="jasmigunasekara" /> </p>
 

@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1100" height="200" src="https://justtotaltech.com/wp-content/uploads/2020/12/machine-learning-project-ideas.png">
+<img align="center" alt="Coding" width="1100" height="300" src="https://justtotaltech.com/wp-content/uploads/2020/12/machine-learning-project-ideas.png">
 <h1 align="center">Hi 👋, I'm Jasmi Gunasekara.</h1>
 <h3 align="center">I'm a highly energetic, ambitious person. I'm really interesting in Machine Learning and Artificial Intelligence.</h3>
 
